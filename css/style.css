@@ -39,7 +39,7 @@ a {
 
 header {
     min-height: 600px;
-    background-image: url("/assets/img/header_img.png");
+    background-image: url("../assets/img/header_img.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
